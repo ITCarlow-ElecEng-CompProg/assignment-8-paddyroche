@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511192022 source:d:\paddy yr2\comp prog\ex 8\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
